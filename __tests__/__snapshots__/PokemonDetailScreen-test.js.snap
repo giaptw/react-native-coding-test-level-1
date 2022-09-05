@@ -1,0 +1,393 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#fff",
+        "flex": 1,
+      },
+      Object {
+        "backgroundColor": "#A8A77A",
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 30,
+        "justifyContent": "center",
+        "paddingHorizontal": 20,
+      }
+    }
+  >
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+          "width": 30,
+        }
+      }
+    >
+      <Text />
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#A8A77A",
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "height": 200,
+          "padding": 20,
+          "width": undefined,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "justifyContent": "center",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#fff",
+              "fontSize": 25,
+              "fontWeight": "bold",
+              "textTransform": "capitalize",
+            }
+          }
+        >
+          bulbasaur
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "flex-end",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#fff",
+              "fontSize": 15,
+              "fontWeight": "bold",
+              "textTransform": "capitalize",
+            }
+          }
+        >
+          #
+          001
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "marginTop": -106.72,
+          "zIndex": 2,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "uri": "",
+          }
+        }
+        style={
+          Object {
+            "height": 200,
+            "width": 200,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "backgroundColor": "#fff",
+          "borderTopLeftRadius": 50,
+          "borderTopRightRadius": 50,
+          "height": 1334,
+          "marginTop": -53.36,
+          "zIndex": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+            "height": 50,
+            "marginTop": 25,
+          }
+        }
+      >
+        <View
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "flex": 1,
+              "justifyContent": "center",
+              "opacity": 1,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#000000",
+                "fontWeight": "bold",
+                "marginBottom": 10,
+              }
+            }
+          >
+            About
+          </Text>
+          <View
+            style={
+              Object {
+                "backgroundColor": "#AAAAAA",
+                "borderRadius": 5,
+                "height": 3,
+                "marginVertical": 5,
+                "width": 50,
+              }
+            }
+          />
+        </View>
+        <View
+          accessible={true}
+          collapsable={false}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "flex": 1,
+              "justifyContent": "center",
+              "opacity": 1,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#727272",
+                "fontWeight": "normal",
+                "marginBottom": 10,
+              }
+            }
+          >
+            Stats
+          </Text>
+          <View
+            style={
+              Object {
+                "backgroundColor": "#AAAAAA",
+                "borderRadius": 5,
+                "height": 3,
+                "marginVertical": 5,
+                "width": 0,
+              }
+            }
+          />
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "flex": 1,
+            "paddingHorizontal": 40,
+            "paddingTop": 20,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "marginBottom": 20,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#727272",
+                "flex": 3,
+              }
+            }
+          >
+            Height
+          </Text>
+          <Text
+            style={
+              Object {
+                "flex": 6,
+              }
+            }
+          >
+            0
+             m
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "marginBottom": 20,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#727272",
+                "flex": 3,
+              }
+            }
+          >
+            Weight
+          </Text>
+          <Text
+            style={
+              Object {
+                "flex": 6,
+              }
+            }
+          >
+            0
+             kg
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "marginBottom": 20,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#727272",
+                "flex": 3,
+              }
+            }
+          >
+            Types
+          </Text>
+          <View
+            style={
+              Array [
+                Object {
+                  "flexDirection": "row",
+                },
+                Object {
+                  "flex": 6,
+                },
+              ]
+            }
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "marginBottom": 20,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#727272",
+                "flex": 3,
+              }
+            }
+          >
+            Abilities
+          </Text>
+          <View
+            style={
+              Array [
+                Object {
+                  "flexDirection": "row",
+                },
+                Object {
+                  "flex": 6,
+                },
+              ]
+            }
+          />
+        </View>
+      </View>
+    </View>
+  </View>
+  <Modal
+    animationType="none"
+    hardwareAccelerated={false}
+    onRequestClose={[Function]}
+    statusBarTranslucent={true}
+    supportedOrientations={
+      Array [
+        "landscape",
+        "portrait",
+      ]
+    }
+    transparent={true}
+    visible={false}
+  />
+</RCTSafeAreaView>
+`;
